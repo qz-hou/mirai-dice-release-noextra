@@ -1,0 +1,23 @@
+{
+  "strAddFriend": "So you are the chosen undead. A pleasure to meet you. Sage Frampt has spoken to me about you. I am Oscar of Astora. \n欢迎选择{strSelfName}的免费掷骰服务！\n.help协议 确认服务协议\n.help指令 查看指令列表\n.help设定 确认骰娘设定\n.help链接 查看源码文档\n使用服务默认已经同意服务协议",
+  "strAddGroup": "A pleasure to meet you. Sage Frampt has spoken to me about you. I am Oscar of Astora. \n欢迎选择{strSelfName}的免费掷骰服务！\n.help协议 确认服务协议\n.help指令 查看指令列表\n.help设定 确认骰娘设定\n.help链接 查看源码文档\n使用服务默认已经同意服务协议",
+  "strCriticalSuccess": "大成功！That's a wonderful thing. I only wish that I had such a purpose.",
+  "strDismiss": "I will be fine. You ought to focus on yourself.",
+  "strDismissPrivate": "如果讨厌我的话，何必如此麻烦？",
+  "strExtremeSuccess": "极难成功！You and I, we're both Undead. May we each fulfil our respective purposes.",
+  "strFailure": "失败。心好累……",
+  "strFumble": "大失败！放弃很有用。",
+  "strHardSuccess": "困难成功，捷径的预感。",
+  "strHlpMsg": "欢迎使用奥斯卡。\n请使用.dismiss QQ号（或后四位） 使{self}退群退讨论组\n.bot on/off QQ号（或后四位） //开启或关闭指令\n.help协议 确认服务协议\n.help指令 查看指令列表\n.help群管 查看群管指令\n.help设定 确认骰娘设定\n.help链接 查看源码文档\n官方论坛: https://forum.kokona.tech/\n论坛导航贴: https://kokona.tech\n青果扩充核心文档:https://oliva.dicer.wiki/",
+  "strNumCannotBeZero": "你并非无理智的游魂，为什么要给我无意义的数字？",
+  "strRollCriticalSuccess": "大成功！That's a wonderful thing. I only wish that I had such a purpose.",
+  "strRollDice": "{pc}看见骑士递出了手中的骰子: {res}",
+  "strRollDiceReason": "为了{reason}，骑士帮{pc}掷骰: {res}",
+  "strRollExtremeSuccess": "极难成功。Very well. Let us keep our wits about us.",
+  "strRollFailure": "Yes, I see... No matter. May we meet again. I pray for your success.",
+  "strRollFumble": "大失败…Yes, I see… Perhaps I was too hopeful… Hah hah…",
+  "strRollHardSuccess": "困难成功！Things appear to have settled. I was right to partner with you.",
+  "strRollRegularSuccess": "成功。做得好，直走吧。",
+  "strSuccess": "成功，前有营火。",
+  "strWelcomePrivate": "我想我们之间不需要这些寒暄。"
+}

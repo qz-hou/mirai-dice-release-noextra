@@ -1,0 +1,38 @@
+[0m2021-07-09 12:10:20 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-07-09 12:10:20 V/Net 1738363595: No server list cached.[0m
+[92m2021-07-09 12:10:20 I/Net 1738363595: Connected to server 120.232.18.27:443[0m
+[0m2021-07-09 12:10:20 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-07-09 12:10:21 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=gzDRNSl6sCkcjoZDQ%2BBd4np%2BBZoRZYKBW6xI4YLEfC5MJbOsEsY2yFJktOEQj89C%2B8SMY2wl2ysIl8E0wJrjryh%2BPcqxGg3lGusLTno0ft1eOl4Hr3NB7FzJSB2jxMpt)[0m
+[0m2021-07-09 12:25:21 V/Net 1738363595: Channel closed.[0m
+[0m2021-07-09 12:30:58 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-07-09 12:30:58 V/Net 1738363595: No server list cached.[0m
+[92m2021-07-09 12:30:58 I/Net 1738363595: Connected to server 157.255.13.77:14000[0m
+[0m2021-07-09 12:30:59 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-07-09 12:30:59 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=WzrYi7P0KaRcjEpxee5%2FbRfjnjQmptdW7yf4UMJBiYeuWsLyKnUfiCxCSIz1acyIjFjirMlp85Z5Yd4uWGH3o8P1SaHx0fTuLWxD%2F4BKwnW09yTV9HtSEuF9PwqF1a2s)[0m
+[0m2021-07-09 12:50:40 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-07-09 12:50:40 V/Net 1738363595: No server list cached.[0m
+[92m2021-07-09 12:50:41 I/Net 1738363595: Connected to server 203.205.255.221:8080[0m
+[0m2021-07-09 12:50:41 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-07-09 12:50:41 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=%2B4Vp32KKHZf1ixmbCl9iSbxvkz76QURZhMONj4jRS9jJBE07DOz8hH%2BQwTsmdW2Kw8td2wEXh4R%2BTw0LiPhXe4rZYO9yZwtD%2BcbYol0fr7miB5wdH37oGmkjDsR3Nh3j)[0m
+[0m2021-07-09 12:51:31 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-07-09 12:51:31 V/Net 1738363595: No server list cached.[0m
+[92m2021-07-09 12:51:32 I/Net 1738363595: Connected to server 203.205.255.224:8080[0m
+[0m2021-07-09 12:51:32 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-07-09 12:51:32 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=%2BgeRP15yU555UeZSvgWzavI3C9gOUDcwrHTCCqF9or7BmTNPKJytjhdObp4NVV8NbW3QL3M1tB%2BW93koAIAwz8jUW1c9fI9C2vULTEuewuXBy%2BLOo4eXOhREIi9wul1f)[0m
+[0m2021-07-09 13:06:32 V/Net 1738363595: Channel closed.[0m
+[0m2021-07-09 13:21:52 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-07-09 13:21:52 V/Net 1738363595: No server list cached.[0m
+[92m2021-07-09 13:21:52 I/Net 1738363595: Connected to server 14.215.138.110:8080[0m
+[0m2021-07-09 13:21:52 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-07-09 13:21:52 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=p557NgFiOlja3i6xR3i9fQ%2FZYSdkWrzQuufDhgpNbHR%2FJPjH7k5NGeIq0TmC%2FrAR61aC5HCn7FfxEzbL6MuTOrt10emTNoHVBfRSpjg1aguqffh1hLaLethWlxN%2Bv0KM)[0m
+[0m2021-07-09 13:22:34 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-07-09 13:22:34 V/Net 1738363595: No server list cached.[0m
+[92m2021-07-09 13:22:34 I/Net 1738363595: Connected to server 203.205.255.224:8080[0m
+[0m2021-07-09 13:22:34 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-07-09 13:22:35 V/Net 1738363595: Recv: Error(bot=Bot(1738363595), code=1, title=登录失败, message=帐号或密码错误，请重新输入。, errorInfo=)[0m
+[0m2021-07-09 13:22:35 V/Net 1738363595: Channel closed.[0m
+[0m2021-07-09 13:22:49 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-07-09 13:22:49 V/Net 1738363595: No server list cached.[0m
+[92m2021-07-09 13:22:49 I/Net 1738363595: Connected to server 203.205.255.224:8080[0m
+[0m2021-07-09 13:22:49 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-07-09 13:22:50 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=kI2s7F%2BE%2FJMA1WKRAObeB8pA5zS19k5IdW9fmII%2B9l%2BY8yFSKRgVmHaGqAJ1SILDqt4wlm%2BZtx6kZ2L73TFpdwT0fppiLWuaXA0GACFI6KUfzFVINuKiw9G3LhW7vjqi)[0m

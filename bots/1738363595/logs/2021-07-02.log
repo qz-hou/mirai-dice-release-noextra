@@ -1,0 +1,7 @@
+[0m2021-07-02 18:16:13 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-07-02 18:16:13 V/Net 1738363595: No server list cached.[0m
+[92m2021-07-02 18:16:14 I/Net 1738363595: Connected to server 203.205.255.221:8080[0m
+[0m2021-07-02 18:16:14 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-07-02 18:16:14 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[0m2021-07-02 18:16:28 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-07-02 18:16:29 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=FnItLVx3rMYZJuccByv87th%2Fn6UjoRna6Uoo%2F6u3Tk48QHuTq0Bym%2BAdJM4U3a0yjL%2F8gXt37NlOPHNfpvBX%2BF8LswHAK5Ax6xnkkWv55T99syH3PItFAc515ggWZmKi)[0m

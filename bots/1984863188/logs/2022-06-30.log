@@ -1,0 +1,5 @@
+[0m2022-06-30 00:16:28 V/Net 1984863188: No BdhSession cache[0m
+[0m2022-06-30 00:16:28 V/Net 1984863188: No server list cached.[0m
+[92m2022-06-30 00:16:29 I/Net 1984863188: Connected to server 203.205.255.221:8080[0m
+[0m2022-06-30 00:16:29 V/Net 1984863188: Send: wtlogin.login[0m
+[0m2022-06-30 00:16:29 V/Net 1984863188: Recv: LoginPacketResponse.Captcha.Slider[0m

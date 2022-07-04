@@ -1,0 +1,65 @@
+[0m2021-06-29 21:10:11 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-06-29 21:10:11 V/Net 1738363595: No server list cached.[0m
+[92m2021-06-29 21:10:11 I/Net 1738363595: Connected to server 14.215.138.110:8080[0m
+[0m2021-06-29 21:10:11 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:10:12 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[0m2021-06-29 21:10:43 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:10:43 V/Net 1738363595: Recv: Error(bot=Bot(1738363595), code=237, title=禁止登录, message=当前上网环境异常，请更换网络环境或在常用设备上登录或稍后再试。, errorInfo=)[0m
+[0m2021-06-29 21:10:43 V/Net 1738363595: Channel closed.[0m
+[0m2021-06-29 21:19:57 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-06-29 21:19:57 V/Net 1738363595: No server list cached.[0m
+[92m2021-06-29 21:19:57 I/Net 1738363595: Connected to server 14.215.138.110:8080[0m
+[0m2021-06-29 21:19:57 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:19:57 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[0m2021-06-29 21:20:35 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:20:36 V/Net 1738363595: Recv: Error(bot=Bot(1738363595), code=237, title=禁止登录, message=当前上网环境异常，请更换网络环境或在常用设备上登录或稍后再试。, errorInfo=)[0m
+[0m2021-06-29 21:20:36 V/Net 1738363595: Channel closed.[0m
+[0m2021-06-29 21:20:43 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-06-29 21:20:43 V/Net 1738363595: No server list cached.[0m
+[92m2021-06-29 21:20:44 I/Net 1738363595: Connected to server 14.215.138.110:8080[0m
+[0m2021-06-29 21:20:44 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:20:44 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[92m2021-06-29 21:29:37 I/Net 1738363595: Connected to server 14.215.138.110:8080[0m
+[0m2021-06-29 21:29:37 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:29:37 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[0m2021-06-29 21:29:42 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:29:42 V/Net 1738363595: Recv: Error(bot=Bot(1738363595), code=237, title=禁止登录, message=当前上网环境异常，请更换网络环境或在常用设备上登录或稍后再试。, errorInfo=)[0m
+[0m2021-06-29 21:29:42 V/Net 1738363595: Channel closed.[0m
+[0m2021-06-29 21:29:54 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-06-29 21:29:54 V/Net 1738363595: No server list cached.[0m
+[92m2021-06-29 21:29:55 I/Net 1738363595: Connected to server 14.215.138.110:8080[0m
+[0m2021-06-29 21:29:55 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:29:55 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[0m2021-06-29 21:30:00 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:30:00 V/Net 1738363595: Recv: Error(bot=Bot(1738363595), code=237, title=禁止登录, message=当前上网环境异常，请更换网络环境或在常用设备上登录或稍后再试。, errorInfo=)[0m
+[0m2021-06-29 21:30:00 V/Net 1738363595: Channel closed.[0m
+[0m2021-06-29 21:32:35 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-06-29 21:32:35 V/Net 1738363595: No server list cached.[0m
+[92m2021-06-29 21:32:36 I/Net 1738363595: Connected to server 14.215.138.110:8080[0m
+[0m2021-06-29 21:32:36 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:32:36 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[91m2021-06-29 21:38:55 W/Net 1738363595: kotlinx.coroutines.JobCancellationException: Job was cancelled; job=SupervisorJobImpl{Cancelling}@79eb90c3
+kotlinx.coroutines.JobCancellationException: Job was cancelled; job=SupervisorJobImpl{Cancelling}@79eb90c3
+[0m
+[0m2021-06-29 21:41:30 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-06-29 21:41:30 V/Net 1738363595: No server list cached.[0m
+[92m2021-06-29 21:41:31 I/Net 1738363595: Connected to server 203.205.255.221:8080[0m
+[0m2021-06-29 21:41:31 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:41:31 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[0m2021-06-29 21:41:45 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:41:46 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=pqMNMKnrOx2XO%2F1arB6Vekw1a%2F31umF0RB5%2FG7fgVwBa9aw1Wt3DUKDvHOKuQAVTX%2BfxXe3TFMUXLYftH%2Bv0bKTo%2BxBEzHm9fxyoVPHwnHcMny6VJmb19H5qEzU5pXaM)[0m
+[0m2021-06-29 21:52:11 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-06-29 21:52:11 V/Net 1738363595: No server list cached.[0m
+[92m2021-06-29 21:52:11 I/Net 1738363595: Connected to server 183.232.94.44:80[0m
+[0m2021-06-29 21:52:11 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:52:12 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[0m2021-06-29 21:52:26 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 21:52:26 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=eIvocfJP4iNoe7%2BusTyYSwSb6eRvl5VUBSDi%2B%2BFbKzKbUg6bVzy4LnvfGvIjfbi3LbK1M0HzluntfVauSAv8sN6VkmgPqxi87s2R0oFQpJ97g1l%2BNCOdJ7w9fUHFTDXi)[0m
+[0m2021-06-29 22:04:34 V/Net 1738363595: No BdhSession cache[0m
+[0m2021-06-29 22:04:34 V/Net 1738363595: No server list cached.[0m
+[92m2021-06-29 22:04:35 I/Net 1738363595: Connected to server 120.232.18.27:443[0m
+[0m2021-06-29 22:04:35 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 22:04:35 V/Net 1738363595: Recv: LoginPacketResponse.Captcha.Slider[0m
+[0m2021-06-29 22:04:51 V/Net 1738363595: Send: wtlogin.login[0m
+[0m2021-06-29 22:04:52 V/Net 1738363595: Recv: UnsafeLogin(bot=Bot(1738363595), url=https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=1738363595&sig=8fkt8AdRwZuNF4y%2BkKBjhTLkgXXeaxSe%2BxK6AGed6A5LONV8eOkPJv7dXc1GNq6Jpxc%2FPgCv%2Bkbx8RaOrF7ydM4XvTlq3MIphnXFC0i1GkWS9SzYfIjLyu8gwd1FMkHH)[0m
+[0m2021-06-29 22:19:52 V/Net 1738363595: Channel closed.[0m

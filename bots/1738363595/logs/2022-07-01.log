@@ -1,0 +1,1516 @@
+[0m2022-07-01 00:00:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:00:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:01:06 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 00:01:07 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 00:01:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:01:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:02:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:02:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:03:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:03:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:04:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:04:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:05:37 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 00:05:37 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 00:05:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:05:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:06:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:06:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:07:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:07:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:08:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:08:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:09:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:09:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:10:07 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 00:10:07 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 00:10:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:10:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:11:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:11:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:12:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:12:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:13:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:13:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:14:37 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 00:14:38 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 00:14:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:14:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:15:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:15:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:16:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:16:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:17:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:17:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:18:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:18:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:19:08 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 00:19:08 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 00:19:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:19:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:20:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:20:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:21:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:21:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:22:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:22:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:23:38 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 00:23:38 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 00:23:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:23:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 00:24:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 00:24:51 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 01:05:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 01:49:04 V/Net 1738363595: Channel closed.[0m
+[0m2022-07-01 01:49:05 V/Net 1738363595: Loading BdhSession from cache file[0m
+[92m2022-07-01 01:49:05 I/Net 1738363595: Connected to server 43.154.240.21:8080[0m
+[0m2022-07-01 01:49:05 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 01:49:05 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[92m2022-07-01 01:49:06 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[0m2022-07-01 01:49:06 V/Net 1738363595: Send: StatSvc.register[0m
+[0m2022-07-01 01:49:06 V/Net 1738363595: Recv: Response(StatSvc.register)[0m
+[92m2022-07-01 01:49:06 I/Net 1738363595: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-01 01:49:06 I/Net 1738363595: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-01 01:49:06 I/Net 1738363595: Syncing friend message history...[0m
+[0m2022-07-01 01:49:06 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[92m2022-07-01 01:49:06 I/Net 1738363595: Syncing friend message history: Success.[0m
+[0m2022-07-01 01:49:09 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ServerListPush[0m
+[92m2022-07-01 01:49:09 I/Net 1738363595: Server list updated.[0m
+[96m2022-07-01 01:49:09 D/Net 1738363595: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[92m2022-07-01 01:49:09 I/Net 1738363595: Server list: 170.106.84.90:10001, 169.47.230.125:10001, 43.154.240.21:8080, 183.2.144.33:80, 116.130.229.166:14000, 36.155.202.141:443, msfwifi.3g.qq.com:8080.[0m
+[0m2022-07-01 01:49:09 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 01:49:09 V/Net 1738363595: Saving server list to cache[0m
+[0m2022-07-01 01:49:09 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 01:49:09 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ConfigPush[0m
+[0m2022-07-01 01:49:09 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 01:49:09 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 02:38:56 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 02:39:01 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 02:39:12 V/Net 1738363595: Channel closed.[0m
+[0m2022-07-01 02:39:12 V/Net 1738363595: Loading BdhSession from cache file[0m
+[92m2022-07-01 02:39:12 I/Net 1738363595: Connected to server 169.47.230.125:10001[0m
+[0m2022-07-01 02:39:12 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 02:39:12 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[0m2022-07-01 02:39:12 V/Net 1738363595: Send: StatSvc.register[0m
+[92m2022-07-01 02:39:12 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[0m2022-07-01 02:39:12 V/Net 1738363595: Recv: Response(StatSvc.register)[0m
+[92m2022-07-01 02:39:12 I/Net 1738363595: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-01 02:39:12 I/Net 1738363595: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-01 02:39:12 I/Net 1738363595: Syncing friend message history...[0m
+[0m2022-07-01 02:39:12 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[92m2022-07-01 02:39:13 I/Net 1738363595: Syncing friend message history: Success.[0m
+[96m2022-07-01 02:39:15 D/Net 1738363595: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2022-07-01 02:39:15 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ServerListPush[0m
+[92m2022-07-01 02:39:15 I/Net 1738363595: Server list updated.[0m
+[0m2022-07-01 02:39:15 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ConfigPush[0m
+[92m2022-07-01 02:39:15 I/Net 1738363595: Server list: 170.106.72.156:10001, 169.47.230.125:10001, 43.154.240.7:8080, 183.47.102.62:80, 60.29.237.176:14000, 36.155.201.96:443, msfwifi.3g.qq.com:8080.[0m
+[0m2022-07-01 02:39:15 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 02:39:15 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 02:39:15 V/Net 1738363595: Saving server list to cache[0m
+[0m2022-07-01 02:39:15 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 02:39:15 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 03:26:56 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 03:27:01 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 03:27:11 V/Net 1738363595: Loading BdhSession from cache file[0m
+[92m2022-07-01 03:27:12 I/Net 1738363595: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2022-07-01 03:27:12 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 03:27:12 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[0m2022-07-01 03:27:12 V/Net 1738363595: Send: StatSvc.register[0m
+[92m2022-07-01 03:27:12 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[0m2022-07-01 03:27:12 V/Net 1738363595: Recv: Response(StatSvc.register)[0m
+[92m2022-07-01 03:27:12 I/Net 1738363595: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-01 03:27:12 I/Net 1738363595: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-01 03:27:12 I/Net 1738363595: Syncing friend message history...[0m
+[0m2022-07-01 03:27:12 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[92m2022-07-01 03:27:13 I/Net 1738363595: Syncing friend message history: Success.[0m
+[0m2022-07-01 03:27:15 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ServerListPush[0m
+[92m2022-07-01 03:27:15 I/Net 1738363595: Server list updated.[0m
+[92m2022-07-01 03:27:15 I/Net 1738363595: Server list: 170.106.84.90:10001, 169.47.230.125:10001, 43.154.240.191:8080, 183.47.102.213:80, 116.130.229.208:14000, 36.155.187.71:443, msfwifi.3g.qq.com:8080.[0m
+[0m2022-07-01 03:27:15 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 03:27:15 V/Net 1738363595: Saving server list to cache[0m
+[0m2022-07-01 03:27:15 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[96m2022-07-01 03:27:15 D/Net 1738363595: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2022-07-01 03:27:16 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ConfigPush[0m
+[0m2022-07-01 03:27:16 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 03:27:16 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 04:15:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 04:15:51 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 05:03:13 V/Net 1738363595: Channel closed.[0m
+[0m2022-07-01 05:03:13 V/Net 1738363595: Loading BdhSession from cache file[0m
+[92m2022-07-01 05:03:13 I/Net 1738363595: Connected to server 36.155.187.71:443[0m
+[0m2022-07-01 05:03:13 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 05:03:14 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[0m2022-07-01 05:03:14 V/Net 1738363595: Send: StatSvc.register[0m
+[92m2022-07-01 05:03:14 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[92m2022-07-01 05:03:19 I/Net 1738363595: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2022-07-01 05:03:19 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 05:03:19 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[0m2022-07-01 05:03:19 V/Net 1738363595: Send: StatSvc.register[0m
+[92m2022-07-01 05:03:19 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[0m2022-07-01 05:03:20 V/Net 1738363595: Recv: Response(StatSvc.register)[0m
+[92m2022-07-01 05:03:20 I/Net 1738363595: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-01 05:03:20 I/Net 1738363595: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-01 05:03:20 I/Net 1738363595: Syncing friend message history...[0m
+[0m2022-07-01 05:03:20 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[92m2022-07-01 05:03:20 I/Net 1738363595: Syncing friend message history: Success.[0m
+[96m2022-07-01 05:03:23 D/Net 1738363595: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2022-07-01 05:03:23 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ConfigPush[0m
+[0m2022-07-01 05:03:23 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 05:03:23 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 05:51:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 05:51:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 05:51:56 V/Net 1738363595: Loading BdhSession from cache file[0m
+[92m2022-07-01 05:51:57 I/Net 1738363595: Connected to server 43.154.240.191:8080[0m
+[0m2022-07-01 05:51:57 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 05:51:57 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[0m2022-07-01 05:51:57 V/Net 1738363595: Send: StatSvc.register[0m
+[92m2022-07-01 05:51:57 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[0m2022-07-01 05:51:58 V/Net 1738363595: Recv: Response(StatSvc.register)[0m
+[92m2022-07-01 05:51:58 I/Net 1738363595: Syncing friend message history...[0m
+[92m2022-07-01 05:51:58 I/Net 1738363595: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-01 05:51:58 I/Net 1738363595: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-01 05:51:58 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[92m2022-07-01 05:51:58 I/Net 1738363595: Syncing friend message history: Success.[0m
+[0m2022-07-01 05:52:00 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ServerListPush[0m
+[92m2022-07-01 05:52:00 I/Net 1738363595: Server list updated.[0m
+[92m2022-07-01 05:52:01 I/Net 1738363595: Server list: 170.106.75.13:10001, 169.47.230.125:10001, 43.154.240.194:8080, 183.47.106.14:80, 60.29.237.214:14000, 36.155.206.174:443, msfwifi.3g.qq.com:8080.[0m
+[0m2022-07-01 05:52:01 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 05:52:01 V/Net 1738363595: Saving server list to cache[0m
+[96m2022-07-01 05:52:01 D/Net 1738363595: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2022-07-01 05:52:01 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 05:52:01 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ConfigPush[0m
+[0m2022-07-01 05:52:01 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 05:52:01 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 06:40:11 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:40:16 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:40:26 V/Net 1738363595: Loading BdhSession from cache file[0m
+[92m2022-07-01 06:40:27 I/Net 1738363595: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2022-07-01 06:40:27 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 06:40:27 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[0m2022-07-01 06:40:27 V/Net 1738363595: Send: StatSvc.register[0m
+[92m2022-07-01 06:40:27 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[0m2022-07-01 06:40:28 V/Net 1738363595: Recv: Response(StatSvc.register)[0m
+[92m2022-07-01 06:40:28 I/Net 1738363595: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-01 06:40:28 I/Net 1738363595: Syncing friend message history...[0m
+[92m2022-07-01 06:40:28 I/Net 1738363595: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-01 06:40:28 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[92m2022-07-01 06:40:28 I/Net 1738363595: Syncing friend message history: Success.[0m
+[0m2022-07-01 06:40:30 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ServerListPush[0m
+[92m2022-07-01 06:40:30 I/Net 1738363595: Server list updated.[0m
+[92m2022-07-01 06:40:31 I/Net 1738363595: Server list: 170.106.72.156:10001, 169.47.230.125:10001, 43.154.240.191:8080, 14.22.9.53:80, 60.28.172.112:14000, 36.155.201.162:443, msfwifi.3g.qq.com:8080.[0m
+[0m2022-07-01 06:40:31 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 06:40:31 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ConfigPush[0m
+[0m2022-07-01 06:40:31 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 06:40:31 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 06:40:31 V/Net 1738363595: Saving server list to cache[0m
+[0m2022-07-01 06:40:31 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[96m2022-07-01 06:40:31 D/Net 1738363595: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2022-07-01 06:45:10 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:45:10 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:45:29 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@68451630)[0m
+[0m2022-07-01 06:45:29 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 06:45:29 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 06:45:29 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 06:45:30 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 06:46:10 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:46:10 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:47:11 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:47:11 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:48:11 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:48:11 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:48:39 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 06:48:40 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 06:49:12 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:49:12 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:50:12 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:50:12 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:51:12 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:51:12 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:52:12 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:52:13 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:53:10 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 06:53:10 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 06:53:13 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:53:13 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:54:13 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:54:13 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:55:13 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:55:14 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:56:14 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:56:14 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:57:14 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:57:14 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:57:40 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 06:57:40 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 06:58:14 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:58:14 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 06:59:14 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 06:59:15 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:00:15 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:00:15 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:01:15 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:01:15 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:02:10 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:02:11 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:02:15 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:02:15 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:03:15 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:03:16 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:04:16 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:04:16 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:05:16 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:05:16 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:06:16 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:06:16 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:06:41 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:06:41 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:07:16 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:07:17 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:08:17 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:08:17 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:09:17 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:09:17 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:10:17 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:10:18 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:11:11 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:11:11 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:11:18 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:11:18 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:12:18 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:12:18 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:13:18 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:13:18 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:14:18 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:14:19 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:15:19 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:15:19 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:15:41 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:15:41 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:16:19 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:16:19 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:17:19 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:17:20 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:18:20 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:18:20 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:19:20 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:19:20 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:20:11 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:20:12 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:20:20 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:20:20 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:21:20 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:21:21 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:22:21 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:22:21 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:23:21 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:23:21 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:24:21 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:24:22 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:24:42 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:24:42 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:25:22 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:25:22 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:26:22 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:26:22 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:27:22 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:27:23 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:28:23 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:28:23 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:29:12 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:29:12 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:29:23 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:29:23 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:30:23 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:30:23 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:31:23 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:31:24 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:32:09 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@44423b54)[0m
+[0m2022-07-01 07:32:09 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 07:32:10 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 07:32:10 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:32:10 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 07:32:21 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@12f1ebc0)[0m
+[0m2022-07-01 07:32:21 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 07:32:22 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 07:32:22 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:32:23 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 07:32:23 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:32:24 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 07:32:24 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:32:24 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:33:24 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:33:24 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:33:42 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:33:43 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:34:24 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:34:25 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:35:25 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:35:25 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:36:25 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:36:25 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:36:57 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@1eff5466)[0m
+[0m2022-07-01 07:36:57 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 07:36:57 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 07:36:58 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:36:58 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 07:37:25 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:37:25 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:38:13 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:38:13 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:38:25 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:38:26 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:39:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:39:26 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:40:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:40:26 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:41:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:41:26 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:42:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:42:27 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:42:43 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:42:43 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:43:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:43:27 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:44:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:44:27 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:45:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:45:28 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:46:28 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:46:28 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:47:13 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:47:14 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:47:28 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:47:28 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:48:28 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:48:28 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:49:28 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:49:29 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:50:29 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:50:29 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:51:29 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:51:29 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:51:44 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:51:44 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:52:29 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:52:29 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:53:29 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:53:30 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:54:30 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:54:30 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:55:30 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:55:30 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:56:14 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 07:56:14 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 07:56:30 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:56:31 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:57:31 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:57:31 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:57:33 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@5eb22ca0)[0m
+[0m2022-07-01 07:57:33 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 07:57:33 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 07:57:34 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:57:34 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 07:57:44 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@322d189c)[0m
+[0m2022-07-01 07:57:44 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 07:57:45 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 07:58:09 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@7737de78)[0m
+[0m2022-07-01 07:58:09 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 07:58:09 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 07:58:09 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:58:10 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 07:58:31 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:58:31 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:58:41 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@3dfaf3e9)[0m
+[0m2022-07-01 07:58:41 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 07:58:42 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 07:58:42 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:58:42 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 07:58:50 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@240b8c60)[0m
+[0m2022-07-01 07:58:50 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 07:58:50 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 07:58:50 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:58:50 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 07:59:11 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@45cf9b24)[0m
+[0m2022-07-01 07:59:11 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 07:59:11 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 07:59:12 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:59:12 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 07:59:31 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 07:59:31 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 07:59:31 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 07:59:32 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 08:00:31 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:00:32 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:00:44 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:00:44 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:01:32 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:01:32 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:02:32 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:02:32 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:03:32 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:03:32 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:04:32 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:04:33 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:05:14 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:05:15 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:05:33 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:05:33 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:06:33 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:06:33 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:07:33 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:07:33 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:08:33 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:08:34 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:09:34 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:09:34 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:09:45 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:09:45 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:10:34 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:10:35 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:11:35 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:11:35 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:12:35 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:12:35 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:13:35 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:13:36 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:14:15 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:14:15 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:14:36 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:14:36 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:15:36 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:15:36 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:16:36 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:16:37 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:17:37 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:17:37 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:18:37 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:18:37 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:18:45 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:18:46 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:19:37 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:19:37 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:20:37 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:20:38 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:21:38 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:21:38 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:22:38 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:22:38 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:23:16 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:23:16 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:23:38 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:23:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:24:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:24:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:25:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:25:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:26:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:26:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:27:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:27:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:27:46 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:27:46 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:28:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:28:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:29:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:29:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:30:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:30:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:31:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:31:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:32:16 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:32:17 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:32:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:32:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:33:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:33:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:34:03 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 08:34:03 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 08:34:16 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 08:34:16 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 08:34:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:34:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:35:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:35:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:36:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:36:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:36:47 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:36:47 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:37:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:37:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:38:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:38:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:39:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:39:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:40:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:40:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:41:17 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:41:17 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:41:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:41:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:42:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:42:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:43:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:43:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:44:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:44:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:45:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:45:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:45:47 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:45:48 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:46:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:46:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:47:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:47:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:48:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:48:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:49:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:49:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:50:18 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:50:18 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:50:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:50:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:51:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:51:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:52:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:52:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:53:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:53:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:54:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:54:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:54:48 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:54:48 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:55:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:55:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:56:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:56:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:57:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:57:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:58:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:58:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 08:59:18 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 08:59:18 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 08:59:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 08:59:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:00:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:00:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:01:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:01:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:02:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:02:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:03:48 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:03:49 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:03:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:03:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:04:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:04:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:05:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:05:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:06:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:06:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:07:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:07:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:08:19 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:08:19 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:08:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:08:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:09:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:09:51 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:10:51 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:10:51 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:11:51 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:11:51 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:12:26 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=141, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@6b87a7a5)[0m
+[0m2022-07-01 09:12:26 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 09:12:49 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:12:49 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:12:51 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:12:51 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:13:51 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:13:52 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:14:52 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:14:52 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:15:52 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:15:52 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:16:52 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:16:52 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:17:19 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:17:20 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:17:52 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:17:53 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:18:53 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:18:53 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:19:53 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:19:53 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:20:53 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:20:53 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:21:50 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:21:50 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:21:53 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:21:54 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:22:54 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:22:54 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:23:54 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:23:54 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:24:54 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:24:55 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:25:55 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:25:55 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:26:20 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:26:20 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:26:55 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:26:55 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:27:55 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:27:56 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:28:56 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:28:56 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:29:56 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:29:56 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:30:50 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:30:50 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:30:56 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:30:56 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:31:56 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:31:57 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:32:57 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:32:57 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:33:57 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:33:57 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:34:57 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:34:57 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:35:21 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:35:21 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:35:57 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:35:58 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:36:58 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:36:58 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:37:58 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:37:58 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:38:58 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:38:58 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:39:51 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:39:51 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:39:58 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:39:58 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:40:58 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:40:59 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:41:59 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:41:59 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:42:59 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:42:59 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:43:59 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:43:59 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:44:21 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:44:21 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:44:59 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:45:00 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:46:00 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:46:00 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:47:00 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:47:00 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:48:00 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:48:00 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:48:51 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:48:51 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:49:00 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:49:01 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:50:01 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:50:01 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:51:01 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:51:01 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:52:01 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:52:01 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:53:01 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:53:02 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:53:22 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:53:22 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:54:02 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:54:02 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:55:02 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:55:02 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:56:02 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:56:02 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:57:02 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:57:03 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:57:52 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 09:57:52 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 09:58:03 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:58:03 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 09:59:03 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 09:59:03 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:00:03 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:00:03 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:01:03 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:01:04 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:02:04 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:02:04 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:02:22 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:02:22 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:03:04 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:03:04 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:04:04 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:04:04 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:05:04 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:05:04 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:06:04 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:06:05 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:06:52 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:06:53 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:07:05 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:07:05 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:08:05 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:08:05 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:09:05 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:09:05 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:10:05 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:10:06 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:11:06 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:11:06 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:11:23 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:11:23 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:12:06 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:12:06 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:13:06 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:13:06 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:14:06 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:14:07 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:14:09 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@1b3d295a)[0m
+[0m2022-07-01 10:14:09 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 10:14:10 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 10:14:10 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 10:14:11 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 10:14:11 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 10:14:11 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 10:15:07 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:15:07 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:15:53 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:15:53 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:16:07 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:16:07 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:17:07 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:17:07 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:18:07 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:18:08 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:19:08 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:19:08 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:20:08 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:20:08 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:20:23 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:20:23 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:21:08 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:21:08 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:22:08 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:22:09 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:23:09 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:23:09 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:24:09 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:24:09 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:24:53 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:24:54 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:25:09 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:25:09 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:26:09 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:26:10 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:27:10 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:27:10 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:28:10 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:28:10 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:29:10 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:29:10 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:29:24 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:29:25 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:30:10 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:30:11 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:31:11 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:31:11 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:32:11 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:32:11 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:33:11 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:33:11 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:33:55 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:33:55 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:34:11 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:34:12 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:35:12 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:35:12 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:36:12 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:36:12 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:37:12 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:37:12 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:38:12 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:38:13 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:38:25 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:38:25 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:39:13 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:39:13 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:40:13 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:40:13 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:41:13 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:41:13 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:42:13 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:42:14 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:42:55 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:42:55 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:43:14 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:43:14 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:44:14 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:44:14 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:45:14 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:45:15 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:46:15 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:46:15 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:47:15 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:47:15 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:47:25 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:47:26 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:48:15 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:48:15 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:49:15 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:49:16 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:50:16 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:50:16 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:51:16 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:51:16 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:51:56 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:51:56 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:52:16 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:52:17 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:53:17 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:53:17 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:54:17 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:54:17 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:55:17 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:55:17 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:56:17 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:56:18 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:56:26 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 10:56:26 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 10:57:18 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:57:18 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:58:18 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:58:18 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 10:59:18 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 10:59:19 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:00:19 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:00:19 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:00:56 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:00:57 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:01:19 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:01:19 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:02:19 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:02:19 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:03:19 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:03:20 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:04:20 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:04:20 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:05:20 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:05:20 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:05:27 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:05:27 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:06:20 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:06:21 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:07:21 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:07:21 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:08:21 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:08:21 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:09:21 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:09:21 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:09:57 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:09:57 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:10:21 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:10:22 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:11:22 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:11:22 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:12:22 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:12:22 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:13:22 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:13:23 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:14:23 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:14:23 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:14:27 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:14:27 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:15:23 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:15:23 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:16:23 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:16:23 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:17:23 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:17:24 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:18:24 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:18:24 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:18:57 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:18:58 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:19:24 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:19:24 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:20:24 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:20:25 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:21:25 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:21:25 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:22:25 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:22:25 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:23:25 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:23:25 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:23:28 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:23:28 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:24:25 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:24:26 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:25:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:25:26 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:26:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:26:26 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:27:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:27:26 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:27:58 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:27:58 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:28:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:28:27 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:29:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:29:27 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:30:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:30:27 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:31:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:31:28 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:32:28 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:32:28 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:32:28 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:32:28 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:33:28 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:33:28 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:34:28 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:34:29 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:35:29 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:35:29 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:36:29 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:36:29 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:36:59 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:36:59 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:37:20 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@254972e9)[0m
+[0m2022-07-01 11:37:20 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 11:37:20 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 11:37:21 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 11:37:21 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 11:37:21 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 11:37:22 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 11:37:29 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:37:29 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:38:29 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:38:30 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:39:30 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:39:30 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:40:30 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:40:30 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:41:29 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:41:29 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:41:30 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:41:31 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:42:31 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:42:31 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:43:31 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:43:31 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:44:31 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:44:31 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:45:31 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:45:32 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:45:38 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:39 V/Net 1738363595: Recv: UserProfile(nickname=千里, email=airsocosal@gmail.com, age=21, qLevel=68, sex=FEMALE, sign=)[0m
+[0m2022-07-01 11:45:39 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:40 V/Net 1738363595: Recv: UserProfile(nickname=Oscar of Astora, email=, age=10, qLevel=10, sex=MALE, sign=)[0m
+[0m2022-07-01 11:45:40 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:40 V/Net 1738363595: Recv: UserProfile(nickname=千里, email=airsocosal@gmail.com, age=21, qLevel=68, sex=FEMALE, sign=)[0m
+[0m2022-07-01 11:45:40 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:41 V/Net 1738363595: Recv: UserProfile(nickname=Solomon, email=, age=33, qLevel=23, sex=UNKNOWN, sign=)[0m
+[0m2022-07-01 11:45:41 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:42 V/Net 1738363595: Recv: UserProfile(nickname=Oscar of Astora, email=, age=10, qLevel=10, sex=MALE, sign=)[0m
+[0m2022-07-01 11:45:42 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:42 V/Net 1738363595: Recv: UserProfile(nickname=千里, email=airsocosal@gmail.com, age=21, qLevel=68, sex=FEMALE, sign=)[0m
+[0m2022-07-01 11:45:42 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:43 V/Net 1738363595: Recv: UserProfile(nickname=索拉尔, email=, age=0, qLevel=20, sex=MALE, sign=)[0m
+[0m2022-07-01 11:45:43 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:44 V/Net 1738363595: Recv: UserProfile(nickname=Solomon, email=, age=33, qLevel=23, sex=UNKNOWN, sign=)[0m
+[0m2022-07-01 11:45:44 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:44 V/Net 1738363595: Recv: UserProfile(nickname=成步堂龙一, email=, age=29, qLevel=24, sex=MALE, sign=)[0m
+[0m2022-07-01 11:45:44 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:45 V/Net 1738363595: Recv: UserProfile(nickname=从不摸鱼的防火女, email=3375116937@qq.com, age=21, qLevel=33, sex=FEMALE, sign=)[0m
+[0m2022-07-01 11:45:45 V/Net 1738363595: Send: SummaryCard.ReqSummaryCard[0m
+[0m2022-07-01 11:45:45 V/Net 1738363595: Recv: UserProfile(nickname=Oscar of Astora, email=, age=10, qLevel=10, sex=MALE, sign=)[0m
+[0m2022-07-01 11:45:59 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:45:59 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:46:32 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:46:32 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:47:32 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:47:32 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:48:32 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:48:33 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:49:33 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:49:33 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:50:29 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:50:30 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:50:33 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:50:33 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:51:33 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:51:34 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:52:34 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:52:34 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:53:34 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:53:34 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:54:34 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:54:35 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:55:00 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:55:00 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:55:35 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:55:35 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:56:35 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:56:35 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:57:35 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:57:35 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:58:35 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:58:36 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 11:59:30 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 11:59:30 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 11:59:36 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 11:59:36 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:00:36 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:00:36 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:01:36 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:01:37 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:02:37 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:02:37 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:03:37 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:03:37 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:04:00 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:04:01 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:04:37 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:04:37 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:05:37 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:05:38 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:06:38 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:06:38 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:07:38 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:07:38 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:08:31 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:08:31 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:08:38 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:08:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:09:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:09:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:10:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:10:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:11:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:11:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:12:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:12:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:13:01 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:13:01 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:13:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:13:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:14:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:14:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:15:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:15:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:16:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:16:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:17:31 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:17:31 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:17:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:17:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:18:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:18:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:19:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:19:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:20:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:20:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:21:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:21:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:22:01 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:22:02 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:22:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:22:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:23:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:23:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:24:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:24:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:25:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:25:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:26:32 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:26:32 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:26:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:26:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:27:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:27:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:28:19 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@4d3cfbd1)[0m
+[0m2022-07-01 12:28:19 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 12:28:19 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 12:28:20 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 12:28:20 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 12:28:20 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 12:28:20 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 12:28:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:28:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:28:44 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 12:28:44 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 12:28:44 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 12:28:45 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 12:28:49 V/Net 1738363595: Send: OnlinePush.RespPush[0m
+[0m2022-07-01 12:28:56 V/Net 1738363595: Send: OnlinePush.RespPush[0m
+[0m2022-07-01 12:29:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:29:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:30:30 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@6bdc0b74)[0m
+[0m2022-07-01 12:30:30 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 12:30:30 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 12:30:31 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 12:30:31 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 12:30:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:30:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:31:02 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:31:02 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:31:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:31:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:32:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:32:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:32:53 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@1a64a10)[0m
+[0m2022-07-01 12:32:53 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 12:32:54 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 12:32:54 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 12:32:54 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 12:32:54 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 12:32:55 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 12:33:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:33:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:34:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:34:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:35:32 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:35:33 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:35:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:35:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:36:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:36:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:37:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:37:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:38:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:38:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:39:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:39:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:40:03 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:40:03 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:40:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:40:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:41:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:41:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:42:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:42:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:43:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:43:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:44:33 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 12:44:33 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 12:44:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:44:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:45:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:45:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:46:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:46:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 12:47:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 12:47:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 13:35:03 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 13:35:08 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 13:35:16 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 13:35:18 V/Net 1738363595: Channel closed.[0m
+[0m2022-07-01 13:35:18 V/Net 1738363595: Loading BdhSession from cache file[0m
+[91m2022-07-01 13:35:19 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:35:22 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:35:25 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:35:28 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:35:31 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:35:34 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:35:37 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:35:40 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[92m2022-07-01 13:35:43 I/Net 1738363595: Connected to server 36.155.201.162:443[0m
+[0m2022-07-01 13:35:44 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 13:35:44 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[0m2022-07-01 13:35:44 V/Net 1738363595: Send: StatSvc.register[0m
+[92m2022-07-01 13:35:44 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[91m2022-07-01 13:36:30 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:36:33 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:36:36 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:36:39 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:36:42 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:36:45 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 13:36:48 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[92m2022-07-01 13:36:51 I/Net 1738363595: Connected to server 60.28.172.112:14000[0m
+[0m2022-07-01 13:36:51 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 13:36:52 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[92m2022-07-01 13:36:52 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[0m2022-07-01 13:36:52 V/Net 1738363595: Send: StatSvc.register[0m
+[0m2022-07-01 13:36:52 V/Net 1738363595: Recv: Response(StatSvc.register)[0m
+[0m2022-07-01 13:36:52 V/Net 1738363595: Loading BdhSession from cache file[0m
+[31m2022-07-01 13:36:52 E/Net 1738363595: Exception in NetworkHandler
+java.util.concurrent.CancellationException: manual re-login
+	at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+	at net.mamoe.mirai.internal.AbstractBot$Login.reinitializeNetworkHandler(AbstractBot.kt:278)
+	at net.mamoe.mirai.internal.AbstractBot$Login.doLogin(AbstractBot.kt:294)
+	at net.mamoe.mirai.internal.AbstractBot$Login$doLogin$1.invokeSuspend(AbstractBot.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:750)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+[0m
+[92m2022-07-01 13:36:52 I/Net 1738363595: Syncing friend message history...[0m
+[92m2022-07-01 13:36:52 I/Net 1738363595: Connected to server 60.28.172.112:14000[0m
+[0m2022-07-01 13:36:52 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 13:36:56 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[0m2022-07-01 13:36:56 V/Net 1738363595: Send: StatSvc.register[0m
+[92m2022-07-01 13:36:56 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[0m2022-07-01 13:36:56 V/Net 1738363595: Recv: Response(StatSvc.register)[0m
+[92m2022-07-01 13:36:58 I/Net 1738363595: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-01 13:36:58 I/Net 1738363595: Syncing friend message history...[0m
+[92m2022-07-01 13:36:58 I/Net 1738363595: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[0m2022-07-01 13:36:58 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[92m2022-07-01 13:37:23 I/Net 1738363595: Syncing friend message history: Success.[0m
+[0m2022-07-01 14:15:22 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:15:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:15:37 V/Net 1738363595: Channel closed.[0m
+[0m2022-07-01 14:15:37 V/Net 1738363595: Loading BdhSession from cache file[0m
+[92m2022-07-01 14:15:38 I/Net 1738363595: Connected to server 43.154.240.191:8080[0m
+[0m2022-07-01 14:15:38 V/Net 1738363595: Send: wtlogin.exchange_emp[0m
+[0m2022-07-01 14:15:38 V/Net 1738363595: Recv: LoginPacketResponse.Success[0m
+[92m2022-07-01 14:15:38 I/Net 1738363595: Saved account secrets to local cache for fast login.[0m
+[0m2022-07-01 14:15:38 V/Net 1738363595: Send: StatSvc.register[0m
+[0m2022-07-01 14:15:38 V/Net 1738363595: Recv: Response(StatSvc.register)[0m
+[92m2022-07-01 14:15:38 I/Net 1738363595: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-01 14:15:38 I/Net 1738363595: Syncing friend message history...[0m
+[92m2022-07-01 14:15:38 I/Net 1738363595: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-01 14:15:38 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[92m2022-07-01 14:15:39 I/Net 1738363595: Syncing friend message history: Success.[0m
+[0m2022-07-01 14:15:41 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ServerListPush[0m
+[92m2022-07-01 14:15:41 I/Net 1738363595: Server list updated.[0m
+[92m2022-07-01 14:15:41 I/Net 1738363595: Server list: 170.106.84.90:10001, 169.47.230.125:10001, 43.154.240.7:8080, 183.47.98.25:80, 116.130.229.12:14000, 36.155.224.104:443, msfwifi.3g.qq.com:8080.[0m
+[0m2022-07-01 14:15:41 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 14:15:41 V/Net 1738363595: Saving server list to cache[0m
+[0m2022-07-01 14:15:41 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[96m2022-07-01 14:15:41 D/Net 1738363595: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2022-07-01 14:15:42 V/Net 1738363595: Recv: ConfigPushSvc.PushReq.PushReqResponse.ConfigPush[0m
+[0m2022-07-01 14:15:42 V/Net 1738363595: Saving bdh session to cache[0m
+[0m2022-07-01 14:15:42 V/Net 1738363595: Send: ConfigPushSvc.PushResp[0m
+[0m2022-07-01 14:16:38 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:16:38 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:17:38 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:17:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:18:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:18:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:19:06 V/Net 1738363595: Recv: RequestPushNotify(uin=1738363595, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=166, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@43437239)[0m
+[0m2022-07-01 14:19:06 V/Net 1738363595: Send: MessageSvc.PbGetMsg[0m
+[0m2022-07-01 14:19:06 V/Net 1738363595: Send: MessageSvc.PbDeleteMsg[0m
+[0m2022-07-01 14:19:06 V/Net 1738363595: Send: MessageSvc.PbSendMsg[0m
+[0m2022-07-01 14:19:07 V/Net 1738363595: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2022-07-01 14:19:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:19:39 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:20:08 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 14:20:08 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 14:20:39 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:20:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:21:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:21:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:22:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:22:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:23:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:23:40 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:24:38 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 14:24:39 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 14:24:40 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:24:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:25:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:25:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:26:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:26:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:27:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:27:41 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:28:41 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:28:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:29:09 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 14:29:09 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 14:29:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:29:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:30:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:30:42 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:31:42 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:31:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:32:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:32:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:33:39 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 14:33:39 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 14:33:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:33:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:34:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:34:43 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:35:43 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:35:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:36:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:36:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:37:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:37:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:38:09 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[96m2022-07-01 14:38:10 D/Net 1738363595: unknown group 528 type 0x00000000000000C7, data: 0A 82 01 08 00 10 A0 1F 82 FA 01 79 08 92 4E 10 CB A5 F5 BC 06 18 EE B4 F9 D8 07 20 93 4E 2A 15 08 04 12 04 10 01 60 00 1A 0B 66 72 69 65 6E 64 5F 74 72 65 65 32 49 08 04 12 38 10 00 18 80 91 F7 95 06 20 01 30 9D BB B9 D8 9B 30 58 00 60 00 C2 3E 20 66 35 65 32 34 39 37 35 32 64 62 66 61 66 66 61 31 65 64 64 31 65 63 34 66 35 37 62 33 36 35 34 1A 0B 66 72 69 65 6E 64 5F 74 72 65 65 A0 06 81 92 02[0m
+[0m2022-07-01 14:38:10 V/Net 1738363595: Send: OnlinePush.RespPush[0m
+[0m2022-07-01 14:38:10 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 14:38:18 V/Net 1738363595: Send: OnlinePush.RespPush[0m
+[0m2022-07-01 14:38:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:38:44 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:39:44 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:39:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:40:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:40:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:41:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:41:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:42:40 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 14:42:40 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 14:42:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:42:45 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:43:45 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:43:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:44:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:44:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:45:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:45:46 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:46:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:46:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:47:10 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 14:47:10 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 14:47:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:47:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:48:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:48:47 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:49:47 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:49:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:50:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:50:48 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:51:40 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 14:51:40 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 14:51:48 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:51:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:52:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:52:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:53:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:53:49 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:54:49 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:54:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:55:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:55:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:56:10 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 14:56:11 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 14:56:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:56:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:57:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:57:50 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:58:50 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:58:51 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 14:59:51 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 14:59:51 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:00:41 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 15:00:41 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 15:00:51 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:00:51 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:01:51 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:01:51 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:02:51 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:02:52 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:03:52 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:03:52 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:04:52 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:04:52 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:05:11 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 15:05:11 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 15:05:52 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:05:53 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:06:53 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:06:53 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:07:53 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:07:53 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:08:53 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:08:54 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:09:41 V/Net 1738363595: Send: StatSvc.SimpleGet[0m
+[0m2022-07-01 15:09:41 V/Net 1738363595: Recv: Response(SimpleGet.Response)[0m
+[0m2022-07-01 15:09:54 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:09:55 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:11:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:11:26 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:12:26 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:12:27 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:13:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:13:27 V/Net 1738363595: Recv: Heartbeat.Alive.Response[0m
+[0m2022-07-01 15:14:27 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:29:46 V/Net 1738363595: Send: Heartbeat.Alive[0m
+[0m2022-07-01 15:42:21 V/Net 1738363595: Channel closed.[0m
+[0m2022-07-01 15:42:21 V/Net 1738363595: Loading BdhSession from cache file[0m
+[91m2022-07-01 15:42:21 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:24 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:27 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:30 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:33 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:36 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:39 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:42 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:45 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:48 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:51 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:54 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:42:57 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:43:00 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:43:03 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:43:06 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:20 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:24 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:27 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:30 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:33 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:36 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:39 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:42 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:45 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:48 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:51 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:54 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:57:57 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:00 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:03 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:06 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:09 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:12 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:15 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:18 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:21 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:24 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:27 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:30 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 15:58:33 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:12:22 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:12:26 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:12:29 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:12:32 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:27:24 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:27:27 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:27:30 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:27:33 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:42:25 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:42:28 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:42:31 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:57:26 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:57:29 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 16:57:32 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 17:12:26 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 17:12:30 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 17:12:33 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 17:27:27 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 17:27:31 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 17:27:34 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 17:42:28 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 17:42:32 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 17:42:35 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 20:42:28 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 20:42:32 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 20:42:35 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 20:42:38 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 21:42:28 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 21:42:32 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 21:42:35 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 21:42:38 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 23:45:03 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
+[91m2022-07-01 23:45:06 W/Net 1738363595: No route to host (Mostly due to no Internet connection). Retrying in 3s...[0m
